@@ -2,13 +2,68 @@
 A collection of deliverables and resources developed by using the Open Data Day 2021 seed funding.
 
 # Mapping
-
+- [Tulsipur Public Bodies URL Mapping](https://github.com/Zaymes/ODD-seed-fund/blob/main/Mapping/PublicBodies%20URL%20Mapping%20-%20Sheet1.csv)
+- [Resources Reports Mapping for Tulsipur Local Bodies](https://github.com/Zaymes/ODD-seed-fund/blob/main/Mapping/Resources%20and%20Datasets%20Mapping%20-%20Sheet1.csv)
 
 # Datasets
+- [Datasets for Tuslipur Sub-Metropolitan City](https://github.com/Zaymes/ODD-seed-fund/tree/main/Datasets/Tulsipur%20Sub-Metropolitan%20City)
+- [Companies in Dang District](https://github.com/Zaymes/ODD-seed-fund/blob/main/Datasets/Dang/company-data/Dang.csv)
 
 
 # Technical Terms - Health
+-[Health related Technical Terms translated to Nepali](https://github.com/Zaymes/ODD-seed-fund/blob/main/Technical%20Health%20Terms/Technical%20Terms%20-%20Health%20-%20Sheet1.csv)
 
 
 # Resources and Reports
-
+- [Eye Health Program - Annual Report 2016](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/16-REPORT-OF-2016..-1.pdf)
+- [Eye Health Program - Annual Report 2017](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/18-REPORT-OF-2017...pdf)
+- [चारकिल्ला तथा घरबाटो प्रमाणित कर २०७५/७६](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/2st%20Nagar%20Shava%20Tax%20%20Rate%202-%20Final.pdf)
+- [तुलसीपुर उपमहानगरपालिकाको आ.व.२०७५/०७६ को राजश्व प्रक्षेपण](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/2st%20Nagar%20Shava%20Tax%20%20Rate3%20-%20Final.pdf)
+- [SEED Annaul Progress Report 2074](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Progress-Report-2074-of-SEED-1.pdf)
+- [SEED Annual Progress Report 2016/17](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Progress-Report-of-SEED-Dang-2016-2017.pdf)
+- [Backward Society Education Annual Report - 1992](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Report-1992.pdf)
+- [Backward Society Education Annual Report - 1993](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Report-1993.pdf)
+- [Backward Society Education Annual Report - 1994](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Report-1994.pdf)
+- [Backward Society Education Annual Report - 2006](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Report-2006.pdf)
+- [Backward Society Education Annual Report - 2007](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Report-2007.pdf)
+- [Backward Society Education Annual Report - 2008](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Report-2008.pdf)
+- [Backward Society Education Annual Report - 2009](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Report-2009.pdf)
+- [Backward Society Education Annual Report - 2010](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Report-2010.pdf)
+- [Backward Society Education Annual Report - 2011](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Report-2011.pdf)
+- [Backward Society Education Annual Report - 2012](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Report-2012.pdf)
+- [Backward Society Education Annual Report - 2013](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Report-2013.pdf)
+- [Backward Society Education Annual Report - 2014](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Report-2014.pdf)
+- [Backward Society Education Annual Report - 2015](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Report-2015.pdf)
+- [Backward Society Education Annual Report - 2016](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Report-2016.pdf)
+- [Backward Society Education Annual Report - 2017](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Report-2017.pdf)
+- [Backward Society Education Annual Report - 2018](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Report-2018.pdf)
+- [Eye Health Program Annual Report-2019](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Annual-Report-of-2019-Eye-Health-Program-Rapti-Bahadurgunj..pdf)
+- [Half Yearly Progress Report of SEED, 2017](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Final-Half-Yearly-progress-report-of-SEED-April-Sep-2017.pdf)
+- [Flood victims Families Support Program report of SEED Nov, 2017](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Flood-victims-Families-Support-Program-report-of-SEED-Nov-2017.pdf)
+- [eBPS Flowchart](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Flow%20chart-TulsipurSubmetropolitanCity.pdf)
+- [November Month Progress Report 2017 of SEED](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/November-Month-Progress-Report-2017-of-SEEDAAN.pdf)
+- [October Month Progress Report 2017 of SEED](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/October-Month-Progress-Report-2017-of-SEED-AAN.pdf)
+- [Eye Health Program Five Years Achievement Report 2014-2018](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Presentation-of-Activity-Report-2014-2018.pdf)
+- [SEED Annual Progress Report 2019](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/SEED_IM-Annual-Progress-Report-2019.pdf)
+- [Eye Health Program, Social Audit Report in Nepali](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Social-Audit-Report-2019-in-nepali.pdf)
+- [Nepal Netra Jyoti Sangh, Eye Health Program Target vs Achievement 2016](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Target-Vs-Achievement-2016..pdf)
+- [Nepal Netra Jyoti Sangh, Eye Health Program Target vs Achievement 2017](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Target-Vs-Achievement-2017.-1.pdf)
+- [Nepal Netra Jyoti Sangh, Eye Health Program Target vs Achievement 2018](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Target-Vs-Achievement-2018....pdf)
+- [Nepal Netra Jyoti Sangh, Eye Health Program Target vs Achievement 2019](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Target-Vs-Achievement-2019-Jan-Dec-2019.pdf)
+- [Nepal Netra Jyoti Sangh, Eye Health Program Target vs Achievement 2020](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Target-Vs-Achievement-2020-final-copy.pdf)
+- [SEED Trimester Report Final April 2017](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Trimester-Report-Final-April-2017.pdf)
+- [Tulsipur ebps brochure](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/Tulsipurebpsbrochure.pdf)
+- [उपभोक्ता संस्था मार्फत निर्माण कार्य गर्ने गराउने कार्यविधी 2069](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618127217.pdf)
+- [विधानको नमूना (संचाइ जल उपभोक्ता संस्थाको लागि](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618127420.pdf)
+- [योजना माग फारामको नमूना](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618127480.pdf)
+- [योजना माग गर्दा आवश्यक पर्ने कागजातहरु](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618127556.pdf)
+- [सिचाइ नीति](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618127643.pdf)
+- [संस्था दर्ता गर्दा आवश्यक पर्ने कागजातहरु](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618128086.pdf)
+- [सिंचाइ नियमावली-2056](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618128358.pdf)
+- [राष्ट्रिय जलस्रोत नीति 2077](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618129471.pdf)
+- [सिंचाइ नीति 2070](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618211845.pdf))
+- [योजना माग फारामको नमूना](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618211930.pdf)
+- [सिँचाइ जल उपभोक्ता संस्थाको विधान](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618212019.pdf)
+- [सिंचाइ नियमावली-2056](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618212149.pdf)
+- [संस्था दर्ता गर्दा आवश्यक पर्ने कागजातहरु](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618212323.pdf)
+- [अन्य कर २०७५/७६](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/tax.pdf)
