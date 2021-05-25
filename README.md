@@ -1,17 +1,56 @@
 # Open Data Day 2021 - Seed Funding
-A collection of deliverables and resources developed by using the Open Data Day 2021 seed funding.
+A collection of deliverables and resources developed by using the Open Data Day 2021 seed funding. The project intended to raise participation and awareness on open data and it's impacts. The team members and mentors brainstormed the ideas to make use of available resources, datas accessible and open. Mapping of Local bodies, Reports Mapping, Datasets Mapping and collections were done. 
+
+### Team Members
+- Tez Prashad Oli
+- Ganesh Bhandari
+- Khum Prasad Bhandari
+- Isha Oli
+- Radha Kadel
+- Tulsiram Oli
+
+### Mentors
+- Nikesh Balami
+- James Shrestha
+
+#
 
 # Mapping
 - [Tulsipur Public Bodies URL Mapping](https://github.com/Zaymes/ODD-seed-fund/blob/main/Mapping/PublicBodies%20URL%20Mapping%20-%20Sheet1.csv)
 - [Resources Reports Mapping for Tulsipur Local Bodies](https://github.com/Zaymes/ODD-seed-fund/blob/main/Mapping/Resources%20and%20Datasets%20Mapping%20-%20Sheet1.csv)
+- [Report Mapping for Dang](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Mapping/dang_report.csv)
+- [Report Mapping for Dang with urls and meta data](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Mapping/dang_report_with_urls.csv)
 
 # Datasets
 - [Datasets for Tuslipur Sub-Metropolitan City](https://github.com/Zaymes/ODD-seed-fund/tree/main/Datasets/Tulsipur%20Sub-Metropolitan%20City)
-- [Companies in Dang District](https://github.com/Zaymes/ODD-seed-fund/blob/main/Datasets/Dang/company-data/Dang.csv)
-
+- [Companies Dataset](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/company%20data%20with%20registration%20datae%20and%20company%20type.csv)
+- [Absentee Population by Sex and Reason of absense](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/absentee-population-by-sex-and-reason-of-absense.csv)
+- [Adult Literacy Rate 15+](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/adult-literacy-rate-15%2B.csv)
+- [Working Population Age stagewise](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/children%2C-adolescent%2C-youth%2C-elderly-and-working-population.csv)
+- [Literacy Rate](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/literacy-rate.csv)
+- [Number of Female Head Household](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/number-of-female-headed-households.csv)
+- [Number of Households by Household Facilities](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/number-of-households-by-households-facilities.csv)
+- [Number of Households by Ownership Type](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/number-of-households-by-ownership-of-house.csv)
+- [Number of Households Lighting Energy Source](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/number-of-households-by-source-of-lighting.csv)
+- [Number of Households by Drinking Water Source](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/number-of-households-by-source-of-drinking-water.csv)
+- [Number of Households by House Foundation Type](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/number-of-households-by-type-of-house-foundation.csv)
+- [Number of Households by Outer Wall Type](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/number-of-households-by-type-of-outer-wall.csv)
+- [Number of Households by Type of Roof](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/number-of-households-by-type-of-roof.csv)
+- [Number of Households by Toilet Facility Type](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/number-of-households-by-type-of-toilet-facility.csv)
+- [Number of households by Usage of Cooking Fuel](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/number-of-households-by-usage-of-cooking-fuel.csv)
+- [Number of Household with Women Ownership](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/number-of-househols-with-land%20house-in-women's-ownership.csv)
+- [Population by Ethnicity](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/population-by-caste%20ethinicity.csv)
+- [Population Having Disability by Type](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/population-by-disability-type.csv)
+- [Population by Educational Attainment](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/population-by-educational-attainment.csv)
+- [Population by Age Group](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/population-by-five-years-age-group.csv)
+- [Population by Literacy Status](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/population-by-literacy-status.csv)
+- [Population by Age](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/population-by-single-year-of-age.csv)
+- [Population by Religion](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/population-by-religion.csv)
+- [Population by Sex](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/population-by-sex.csv)
+- [Youths Literacy Rate by sex](https://github.com/Zaymes/ODD-seed-fund/blob/tulsipur-data/Datasets/youth-15-24-years-literacy-rate.csv)
 
 # Technical Terms - Health
--[Health related Technical Terms translated to Nepali](https://github.com/Zaymes/ODD-seed-fund/blob/main/Technical%20Health%20Terms/Technical%20Terms%20-%20Health%20-%20Sheet1.csv)
+- [Health related Technical Terms translated to Nepali](https://github.com/Zaymes/ODD-seed-fund/blob/main/Technical%20Health%20Terms/Technical%20Terms%20-%20Health%20-%20Sheet1.csv)
 
 
 # Resources and Reports
@@ -61,7 +100,7 @@ A collection of deliverables and resources developed by using the Open Data Day 
 - [संस्था दर्ता गर्दा आवश्यक पर्ने कागजातहरु](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618128086.pdf)
 - [सिंचाइ नियमावली-2056](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618128358.pdf)
 - [राष्ट्रिय जलस्रोत नीति 2077](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618129471.pdf)
-- [सिंचाइ नीति 2070](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618211845.pdf))
+- [सिंचाइ नीति 2070](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618211845.pdf)
 - [योजना माग फारामको नमूना](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618211930.pdf)
 - [सिँचाइ जल उपभोक्ता संस्थाको विधान](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618212019.pdf)
 - [सिंचाइ नियमावली-2056](https://github.com/Zaymes/ODD-seed-fund/blob/main/Resources%20and%20Reports/download1618212149.pdf)
