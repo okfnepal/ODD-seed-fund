@@ -1,5 +1,19 @@
 # Open Data Day 2021 - Seed Funding
-A collection of deliverables and resources developed by using the Open Data Day 2021 seed funding.
+A collection of deliverables and resources developed by using the Open Data Day 2021 seed funding. The project intended to raise participation and awareness on open data and it's impacts. The team members and mentors brainstormed the ideas to make use of available resources, datas accessible and open. Mapping of Local bodies, Reports Mapping, Datasets Mapping and collections were done. 
+
+### Team Members
+- Tez Prashad Oli
+- Ganesh Bhandari
+- Khum Prasad Bhandari
+- Isha Oli
+- Radha Kadel
+- Tulsiram Oli
+
+### Mentors
+- Nikesh Balami
+- James Shrestha
+
+#
 
 # Mapping
 - [Tulsipur Public Bodies URL Mapping](https://github.com/Zaymes/ODD-seed-fund/blob/main/Mapping/PublicBodies%20URL%20Mapping%20-%20Sheet1.csv)
