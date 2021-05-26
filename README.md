@@ -1,5 +1,7 @@
 # Open Data Day 2021 - Seed Funding
-A collection of deliverables and resources developed by using the Open Data Day 2021 seed funding. The project intended to raise participation and awareness on open data and it's impacts. The team members and mentors brainstormed the ideas to make use of available resources, datas accessible and open. Mapping of Local bodies, Reports Mapping, Datasets Mapping and collections were done. 
+A collection of deliverables and resources developed by the ODD 2021 team using the seed funding.
+
+The project intended to raise local participation in using open data and aware them of its impacts. The team members and mentors brainstormed ideas to make use of available resources and data. Mapping and harvest of Local bodies, reports and datasets Mapping were carried out.
 
 ### Team Members
 - Tez Prashad Oli
